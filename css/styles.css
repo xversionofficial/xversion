@@ -1,0 +1,92 @@
+.row-header{
+    margin: 0px auto;
+    padding: 0px auto;
+}
+
+.row-content{
+    margin: 0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height: 400px;
+}
+
+.footer{
+    background-color: #FF4C4C;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+}
+
+.jumbotron{
+    padding: 70px 30px 70px 30px;
+    marging: 0px auto;
+    background: #000000;
+    color: white;
+}
+
+.address{
+    font-size: 80%;
+    margin: 0px;
+    color: #0f0f0f;
+}
+
+.body{
+    padding: 50px 0px 0px 0px;
+    z-index: 0
+}
+
+.navbar-dark{
+    background-color: #000000;
+}
+
+h1::first-letter{
+  font-weight: bold;
+  color: #E71414;
+}
+
+.wrapper {
+    width: 920px;
+    height: 350px;
+    margin: 0 auto;
+}
+
+.home1 {
+    width: 400px;
+    height: 300px;
+    float: left;
+}
+
+.home2 {
+    width: 400px;
+    height: 300px;
+    float: right;
+}
+
+.jumbotron{
+  background-size: 100%;
+}
+.jumbo{
+  padding: 20px 30px 20px 30px;
+  marging: 0px auto;
+  background: #E71414;
+  background-size: 50%;
+  border-radius: 10px;
+}
+
+html, body{
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+.video-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.video-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
