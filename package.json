@@ -19,7 +19,7 @@
     "font-awesome": "^4.7.0",
     "jquery": "^3.5.0",
     "lodash": "^4.17.19",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "popper.js": "^1.12.9"
   }
 }
